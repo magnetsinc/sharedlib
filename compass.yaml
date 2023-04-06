@@ -3,7 +3,8 @@ id: 'ari:cloud:compass:7d7a1354-b50b-4f1e-b409-1f3c509aea99:component/910c34fb-0
 description: A shared library for all Magnetic services that provides basic scaffolding.
 configVersion: 1
 ownerId: 'ari:cloud:teams::team/555e6644-f5bc-48c8-b60f-1d524ef21c1c'
-fields: {}
+fields:
+  tier: 1
 links: []
 relationships: {}
 
