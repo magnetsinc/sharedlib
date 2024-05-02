@@ -17,7 +17,7 @@ customFields:
     value: "n/a"
   - name: "Last security review"
     type: text
-    value: "2023-03-26"
+    value: "2024-03-26"
 labels:
   - library
   - python2
